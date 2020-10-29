@@ -1,0 +1,13 @@
+C:\Users\acran\source\repos\Labs\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.csprojAssemblyReference.cache
+C:\Users\acran\source\repos\Labs\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.AssemblyInfoInputs.cache
+C:\Users\acran\source\repos\Labs\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.AssemblyInfo.cs
+C:\Users\acran\source\repos\Labs\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.csproj.CoreCompileInputs.cache
+C:\Users\acran\source\repos\Labs\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.exe
+C:\Users\acran\source\repos\Labs\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.deps.json
+C:\Users\acran\source\repos\Labs\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.runtimeconfig.json
+C:\Users\acran\source\repos\Labs\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.runtimeconfig.dev.json
+C:\Users\acran\source\repos\Labs\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.dll
+C:\Users\acran\source\repos\Labs\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.pdb
+C:\Users\acran\source\repos\Labs\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.dll
+C:\Users\acran\source\repos\Labs\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.pdb
+C:\Users\acran\source\repos\Labs\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.genruntimeconfig.cache
